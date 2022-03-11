@@ -1,2 +1,4 @@
 # Project-Note
-开发小记 - 项目里的一些新奇玩意儿
+## 实用的第三方库
+
+✅ [highlits.js](https://highlightjs.org/usage/) `代码高亮`
