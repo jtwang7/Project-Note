@@ -18,3 +18,5 @@
 ✅ [Lorem Picsum](https://picsum.photos/) `图片占位`
 
 ✅ [RPG-Awesome](http://nagoshiashumari.github.io/Rpg-Awesome/) `科幻主题的免费矢量图标网站`
+
+✅ [simple-react-lightbox](https://github.com/michelecocuccio/simple-react-lightbox#readme) `react灯箱库`
