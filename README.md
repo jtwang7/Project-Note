@@ -16,3 +16,5 @@
 ✅ [cool backgrounds](https://coolbackgrounds.io/)
 
 ✅ [Lorem Picsum](https://picsum.photos/) `图片占位`
+
+✅ [RPG-Awesome](http://nagoshiashumari.github.io/Rpg-Awesome/) `科幻主题的免费矢量图标网站`
