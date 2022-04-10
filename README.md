@@ -20,3 +20,5 @@
 ✅ [RPG-Awesome](http://nagoshiashumari.github.io/Rpg-Awesome/) `科幻主题的免费矢量图标网站`
 
 ✅ [simple-react-lightbox](https://github.com/michelecocuccio/simple-react-lightbox#readme) `react灯箱库`
+
+✅ [loader.css](https://loading.io/css/) `Pure CSS Loader`
