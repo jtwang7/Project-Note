@@ -22,3 +22,5 @@
 ✅ [simple-react-lightbox](https://github.com/michelecocuccio/simple-react-lightbox#readme) `react灯箱库`
 
 ✅ [loader.css](https://loading.io/css/) `Pure CSS Loader`
+
+✅ [react-parallax](https://github.com/rrutsche/react-parallax#readme) `React-Parallax视差滚动`
