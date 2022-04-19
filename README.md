@@ -25,6 +25,8 @@
 
 ✅ [react-parallax](https://github.com/rrutsche/react-parallax#readme) `React-Parallax视差滚动`
 
+✅ [Macy.js](https://github.com/bigbite/macy.js) `瀑布流插件`
+
 ## MAC软件
 
 🔆 [MacWk](https://macwk.com/soft/all/p1) `一个包含大量安全破解版Mac软件的宝藏网站`
