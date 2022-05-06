@@ -11,7 +11,7 @@
 
 ## 开发小工具
 
-✅ [neumorphism](https://www.justinmind.com/blog/neumorphism-ui/) `拟态按键`
+✅ [Neumorphism/Soft UI CSS](https://neumorphism.io/#55b9f3) `拟态按键CSS样式`
 
 ✅ [cool backgrounds](https://coolbackgrounds.io/)
 
