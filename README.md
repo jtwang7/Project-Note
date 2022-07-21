@@ -11,6 +11,8 @@
 
 ✅ [numbro.js](https://numbrojs.com/) `数字格式化`
 
+✅ [moment.js](https://momentjs.com/) `时间格式化`
+
 ## 开发小工具
 
 ✅ [Neumorphism/Soft UI CSS](https://neumorphism.io/#55b9f3) `拟态按键CSS样式`
