@@ -13,6 +13,8 @@
 
 ✅ [moment.js](https://momentjs.com/) `时间格式化`
 
+✅ [PapaParse](https://www.papaparse.com/) `前端解析 csv 的强力插件`
+
 ## 开发小工具
 
 ✅ [Neumorphism/Soft UI CSS](https://neumorphism.io/#55b9f3) `拟态按键CSS样式`
