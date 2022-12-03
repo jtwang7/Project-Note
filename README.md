@@ -15,6 +15,8 @@
 
 ✅ [PapaParse](https://www.papaparse.com/) `前端解析 csv 的强力插件`
 
+✅ [jstat.js](https://jstat.github.io/all.html) `轻量级统计库`
+
 ## 开发小工具
 
 ✅ [Neumorphism/Soft UI CSS](https://neumorphism.io/#55b9f3) `拟态按键CSS样式`
