@@ -37,6 +37,44 @@
 
 ✅ [react-color](https://github.com/casesandberg/react-color) `react颜色选择弃`
 
+## 数据可视化工具库
+
+✅ [D3.js](https://github.com/d3/d3)
+
+✅ [Chart.js](https://github.com/chartjs/Chart.js)
+
+✅ [Apache ECharts](https://github.com/apache/echarts)
+
+✅ [Recharts](https://github.com/recharts/recharts)
+
+✅ [Plotly.js](https://github.com/plotly/plotly.js)
+
+✅ [Chartist.js](https://github.com/gionkunz/chartist-js)
+
+✅ [ApexCharts](https://github.com/apexcharts/apexcharts.js)
+
+✅ [Highcharts](https://github.com/highcharts/highcharts)
+
+✅ [Nivo](https://github.com/plouc/nivo)
+
+✅ [deck.gl](https://github.com/visgl/deck.gl)
+
+✅ [kepler.gl](https://github.com/keplergl/kepler.gl)
+
+✅ [react-vis](https://github.com/uber/react-vis)
+
+✅ [Chart.xkcd](https://github.com/timqian/chart.xkcd)
+
+✅ [BizCharts](https://github.com/alibaba/BizCharts)
+
+✅ [TOAST UI Chart](https://github.com/nhn/tui.chart)
+
+✅ [billboard.js](https://github.com/naver/billboard.js)
+
+✅ [antd-charts](https://charts.ant.design/zh)
+
+✅ [antv]()
+
 ## 宝藏网站
 
 🔆 [MacWk](https://macwk.com/soft/all/p1) `一个包含大量安全破解版Mac软件的宝藏网站`
