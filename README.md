@@ -15,7 +15,7 @@
 
 ✅ [PapaParse](https://www.papaparse.com/) `前端解析 csv 的强力插件`
 
-✅ [jstat.js](https://jstat.github.io/all.html) `轻量级统计库`
+✅ [jstat.js](https://github.com/jstat/jstat) `轻量级统计库`
 
 ## 开发小工具
 
