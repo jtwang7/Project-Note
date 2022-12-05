@@ -17,6 +17,8 @@
 
 ✅ [jstat.js](https://github.com/jstat/jstat) `轻量级统计库`
 
+✅ [fabric.js](https://github.com/fabricjs/fabric.js) `canvas 封装库`
+
 ## 开发小工具
 
 ✅ [Neumorphism/Soft UI CSS](https://neumorphism.io/#55b9f3) `拟态按键CSS样式`
