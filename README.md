@@ -21,6 +21,8 @@
 
 ✅ [konva.js](https://github.com/konvajs/konva) `JavaScript 2d canvas library - 文档清晰；较好的支持 TS；出现时间晚`
 
+- 👉 [konva.js 中文文档](http://konvajs-doc.bluehymn.com/docs/overview.html)
+
 ## 开发小工具
 
 ✅ [Neumorphism/Soft UI CSS](https://neumorphism.io/#55b9f3) `拟态按键CSS样式`
