@@ -17,9 +17,11 @@
 
 ✅ [jstat.js](https://github.com/jstat/jstat) `轻量级统计库`
 
-✅ [fabric.js](https://github.com/fabricjs/fabric.js) `JavaScript 2d canvas library - 出现时间早；应用广；文档不够清晰`
+✅ **JavaScript 2d canvas library**
 
-✅ [konva.js](https://github.com/konvajs/konva) `JavaScript 2d canvas library - 文档清晰；较好的支持 TS；出现时间晚`
+- [fabric.js](https://github.com/fabricjs/fabric.js)
+- [konva.js](https://github.com/konvajs/konva)
+- [zrender](https://github.com/ecomfe/zrender) `ECharts的底层渲染器`
 
 ## 开发小工具
 
