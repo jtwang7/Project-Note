@@ -1,6 +1,10 @@
 # Project-Note
 ## 实用的第三方库
 
+✅ [lodash](https://www.lodashjs.com/)
+
+✅ [RxJS](https://rxjs.dev/) `Reactive Extensions Library for JavaScript`
+
 ✅ [highlits.js](https://highlightjs.org/usage/) `代码高亮`
 
 ✅ [Grid.js](https://gridjs.io/) `表格工具`
