@@ -27,6 +27,11 @@
 - [konva.js](https://github.com/konvajs/konva)
 - [zrender](https://github.com/ecomfe/zrender) `ECharts的底层渲染器`
 
+✅ **webgl 2d library**
+
+- [PixiJS](https://pixijs.com/) `fastest,flexible 2D WebGL renderer`
+
+
 ## 开发小工具
 
 ✅ [Neumorphism/Soft UI CSS](https://neumorphism.io/#55b9f3) `拟态按键CSS样式`
