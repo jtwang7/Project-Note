@@ -33,6 +33,8 @@
 
 - [PixiJS tutorial](https://github.com/kittykatattack/learningPixi) `Pixi.js 教程文档`
 
+- [ReactPixi](https://reactpixi.org/) `PixiJS React 版本`
+
 
 ## 开发小工具
 
