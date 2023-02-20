@@ -54,7 +54,9 @@
 
 ✅ [Macy.js](https://github.com/bigbite/macy.js) `瀑布流插件`
 
-✅ [react-color](https://github.com/casesandberg/react-color) `react颜色选择弃`
+✅ [react-color](https://github.com/casesandberg/react-color) `react颜色选择器`
+
+✅ [colormap](https://github.com/bpostlethwaite/colormap) `颜色条 - 获取连续过渡色数组`
 
 ## 数据可视化工具库
 
