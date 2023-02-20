@@ -31,6 +31,8 @@
 
 - [PixiJS](https://pixijs.com/) `fastest,flexible 2D WebGL renderer`
 
+- [PixiJS tutorial](https://github.com/kittykatattack/learningPixi) `Pixi.js 教程文档`
+
 
 ## 开发小工具
 
