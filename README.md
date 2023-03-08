@@ -23,6 +23,8 @@
 
 ✅ [jstat.js](https://github.com/jstat/jstat) `轻量级统计库`
 
+✅ [hex-rgb](https://www.npmjs.com/package/hex-rgb) `颜色格式转换: hex <-> rgb`
+
 ✅ **JavaScript 2d canvas library**
 
 - [fabric.js](https://github.com/fabricjs/fabric.js)
