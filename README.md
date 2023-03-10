@@ -100,8 +100,8 @@
 
 ✅ [antv-L7](https://l7.antv.antgroup.com/)
 
-## 宝藏网站
+## 🌈 可能对你有用的宝藏
 
-🔆 [MacWk](https://macwk.com/soft/all/p1) `一个包含大量安全破解版Mac软件的宝藏网站`
+🔆 [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn/related?hl=zh-CN) `谷歌插件：可联网的 ChatGPT 插件`
 
-🔆 [Markdown 官方教程](https://markdown.com.cn/)
+🔆 [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=zh-CN) `谷歌插件：搜索引擎 + ChatGPT`
