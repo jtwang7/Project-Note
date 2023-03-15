@@ -25,6 +25,8 @@
 
 ✅ [hex-rgb](https://www.npmjs.com/package/hex-rgb) `颜色格式转换: hex <-> rgb`
 
+✅ [🎨AntD调色板](https://www.npmjs.com/package/@ant-design/colors)
+
 ✅ **JavaScript 2d canvas library**
 
 - [fabric.js](https://github.com/fabricjs/fabric.js)
