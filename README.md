@@ -102,6 +102,10 @@
 
 ✅ [antv-L7](https://l7.antv.antgroup.com/)
 
+## 🔥 可能对你有用的好文推荐
+
+✅ [如何阅读大型前端开源项目的源码](https://juejin.cn/post/6844903607393845255)
+
 ## 🌈 可能对你有用的宝藏
 
 🔆 [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn/related?hl=zh-CN) `谷歌插件：可联网的 ChatGPT 插件`
